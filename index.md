@@ -6,16 +6,16 @@ Customer Lifetime Value (CLV) is a prediction of future profits you expect from 
 This page explains the current state and already published publications from this research.
 
 ### Current state and schedule
-We're currently communicating with some 12 partners who are willing to share their data with us.
+We've been communicating with some 12 partners who had been willing to share their data with us.
 * With some of these partners, we've already analyzed and discussed first results.
 
-We're waiting for reviews on our submission to Electronic Commerce Research and Applications. The proposed article compares several statistical models on real-world data from 6 partners.
+We're waiting for reviews on our submission to Journal of Business Research. The proposed article compares several statistical models on real-world data from 6 partners.
 * Team work of Lucie Šperková, Lenka Vraná, Pavel Jašek, Marek Kobulský and Zdeněk Smutný.
 * We've chosen several models to implement and a method to describe how each model fits to a company.
 * All outputs from analyses need to be approved by the partner.
 * Apart from CLV itself we're analyzing purchase data to justify that the whole concept of Customer Centricity makes sense and has practical implications for marketing management.
 
-In 2017 Pavel Jašek should have ready his dissertation thesis that would benefit from this research in the following way:
+In 2018 Pavel Jašek should have ready his dissertation thesis that would benefit from this research in the following way:
 * means of CLV application in marketing management - discussions with marketing managers. Current state of the usage of customer value. Proposal of specific applications of CLV and Customer Equity in the company. The thesis should conclude in metohdology of CLV use in companies.
 * case study with selected partners. When a clear measureable example of a campaign that could benefit from CLV data is found, Pavel will propose a pilot test run.
 
@@ -28,9 +28,9 @@ Papers already published :
 * [Novotny and Jasek - Enhancing Customer Lifetime Value with Perceptual Measures Contained in Enterprise Information Systems](https://github.com/CLVresearch/public/blob/master/papers/Novotny%20and%20Jasek%20-%20Enhancing%20Customer%20Lifetime%20Value%20with%20Perceptual%20Measures%20Contained%20in%20Enterprise%20Information%20Systems.pdf)
 * [Vrana and Jasek - Persistence Models for Customer Equity](https://github.com/CLVresearch/public/blob/master/papers/Vrana%20and%20Jasek%20-%20Persistence%20Models%20for%20Customer%20Equity.pdf)
 
-Bachelor thesis Pavel worked on:
+Bachelor thesis the team worked on:
 * [Pešek - Methods of Predicting Customer Lifetime Value](https://github.com/CLVresearch/public/blob/master/bachelor-thesis/Pe%C5%A1ek%20-%20Zp%C5%AFsoby%20predikce%20dlouhodob%C3%A9%20hodnoty%20z%C3%A1kazn%C3%ADka.pdf)
-
+* [Samuseva - Application of statistical methods for calculations of Customer Lifetime Value](https://github.com/CLVresearch/public/raw/master/bachelor-thesis/Samuseva%20-%20Aplikace%20statisticky%CC%81ch%20metod%20pr%CC%8Ci%20vy%CC%81poc%CC%8Ctu%20celoz%CC%8Civotni%CC%81%20hodnoty%20za%CC%81kazni%CC%81ka.pdf)
 
 ### Contact
 
